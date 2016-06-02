@@ -1,6 +1,6 @@
 import angular from 'angular';
 import uiRouter from 'angular-ui-router';
-//import todosController from 'todos/todos';
+import todosController from 'todos/todos';
 
 const app = angular.module('app', [uiRouter]);
 
